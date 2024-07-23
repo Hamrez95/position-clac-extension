@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Position Calculator",
+    "version": "1.0",
+    "description": "Calculate position value for trading",
+    "icons": {
+        "48": "calc.png",
+        "128": "calc.png"
+    },
+    "browser_action": {
+        "default_icon": "calc.png",
+        "default_popup": "popup.html"
+    }
+}
